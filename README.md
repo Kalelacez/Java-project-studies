@@ -1,4 +1,4 @@
-# Java Mini Project Studies
+# Java Project Studies
 
 A collection of **mini Java projects** I created,
 This repository is meant for practicing **Java fundamentals.**
