@@ -8,6 +8,7 @@ Technologies used:
 
 ## 📂 Projects Included
 - **Project 1:** [Bank] – Little bank simulation running on terminal
+- **Project 2:** [Songs] – Songs and Podcasts using Object Oriented Programming
 
 ## 🚀 How to Run
 1. Clone the repository:
